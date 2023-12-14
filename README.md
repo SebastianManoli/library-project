@@ -3,14 +3,23 @@ A simple library website I developed for my 2nd Year Web Development assignment,
 
 ## PHP Page List & Descriptions
 >_connection.php_
+
 >_functions.php_
+
 >_index.php_
+
 >_login.php_
+
 >_register.php_
+
 >_search.php_
+
 >_reservations.php_
+
 >_view.php_
+
 >_remove.php_
+
 >_logout.php_
 
 ### connection.php
