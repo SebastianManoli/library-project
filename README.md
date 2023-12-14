@@ -2,7 +2,7 @@
 A simple library website I developed for my 2nd Year Web Development assignment, using HTML, CSS, PHP, MySQL
 
 ## PHP Page List & Descriptions
-_connection.php_
+*_connection.php_
 _functions.php_
 _index.php_
 _login.php_
