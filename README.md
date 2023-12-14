@@ -2,25 +2,25 @@
 A simple library website I developed for my 2nd Year Web Development assignment, using HTML, CSS, PHP, MySQL
 
 ## PHP Page List & Descriptions
-*_connection.php_
+>_connection.php_
 
-*_functions.php_
+>_functions.php_
 
-*_index.php_
+>_index.php_
 
-*_login.php_
+>_login.php_
 
-*_register.php_
+>_register.php_
 
-*_search.php_
+>_search.php_
 
-*_reservations.php_
+>_reservations.php_
 
-*_view.php_
+>_view.php_
 
-*_remove.php_
+>_remove.php_
 
-*_logout.php_
+>_logout.php_
 ***
 ### connection.php
 The connection.php page is the file containing information to connect my pages to the PHPMyAdmin SQL Server and the Database I created in PHPMyAdmin. Key information this page contains is the database name, password, and host. This page is included in every page of my website through the line: include("connection.php"); Failure to connect to the server will result in an error.
