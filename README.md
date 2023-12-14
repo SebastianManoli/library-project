@@ -46,3 +46,27 @@ The reserve page is reached when a user clicks to remove a book from the view re
 
 ### logout.php
 The logout.php page asks the user to confirm if they are sure they want to logout and if ‘Yes’ is clicked then the user is logged out and the session is destroyed. The user is sent back to the login page. If the user selects ‘No’ they are sent to the index page.
+
+# Web Page Screenshots
+### Login
+![login page](https://github.com/SebastianManoli/library-project/assets/124163339/c4a88b6b-a4f1-43d7-97f8-58bff1360e40)
+
+### Register
+![register page](https://github.com/SebastianManoli/library-project/assets/124163339/63ecf817-76da-4810-9b06-18fd6d84dd40)
+
+### Index
+![Index Page](https://github.com/SebastianManoli/library-project/assets/124163339/722b35ef-c671-4c8c-923b-3cb6e9715601)
+
+### Search
+![Search Page Before Search](https://github.com/SebastianManoli/library-project/assets/124163339/9b4a02e0-eeb3-4094-a106-3432564648c1)
+![Search Page After Search](https://github.com/SebastianManoli/library-project/assets/124163339/52d66632-90f4-45c0-9bc0-0c4b40e69f86)
+
+### Reservations
+![Reservations](https://github.com/SebastianManoli/library-project/assets/124163339/96d9c2ea-d3a1-475f-b31b-a8adb4a3d908)
+
+### Logout
+![Logout page confirming logout](https://github.com/SebastianManoli/library-project/assets/124163339/b984a79c-92d0-4521-b227-21e24c4448cc)
+
+
+
+
